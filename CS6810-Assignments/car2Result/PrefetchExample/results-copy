@@ -1,0 +1,900 @@
+next_n_lines benchmark: 1 aggression: 1
+0.764178
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 32308568
+Hit rate: 0.764178
+Prefetches: 19515216
+Successful prefetches: 2089482
+
+next_n_lines benchmark: 1 aggression: 2
+0.764296
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 32313572
+Hit rate: 0.764296
+Prefetches: 19498695
+Successful prefetches: 2082785
+
+next_n_lines benchmark: 1 aggression: 3
+0.764187
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 32308962
+Hit rate: 0.764187
+Prefetches: 19506388
+Successful prefetches: 2087899
+
+next_n_lines benchmark: 1 aggression: 4
+0.764229
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 32310741
+Hit rate: 0.764229
+Prefetches: 19515216
+Successful prefetches: 2087241
+
+next_n_lines benchmark: 1 aggression: 5
+0.763941
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 32298556
+Hit rate: 0.763941
+Prefetches: 19520660
+Successful prefetches: 2084981
+
+next_n_lines benchmark: 1 aggression: 6
+0.764445
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 32319864
+Hit rate: 0.764445
+Prefetches: 19503897
+Successful prefetches: 2084276
+
+next_n_lines benchmark: 1 aggression: 7
+0.764187
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 32308962
+Hit rate: 0.764187
+Prefetches: 19506388
+Successful prefetches: 2087899
+
+next_n_lines benchmark: 1 aggression: 8
+0.764229
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 32310739
+Hit rate: 0.764229
+Prefetches: 19515217
+Successful prefetches: 2087241
+
+next_n_lines benchmark: 1 aggression: 9
+0.764252
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 32311706
+Hit rate: 0.764252
+Prefetches: 19515477
+Successful prefetches: 2084944
+
+next_n_lines benchmark: 1 aggression: 10
+0.764252
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 32311706
+Hit rate: 0.764252
+Prefetches: 19515477
+Successful prefetches: 2084944
+
+stride benchmark: 1 aggression: 1
+0.717365
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 30329384
+Hit rate: 0.717365
+Prefetches: 4885327
+Successful prefetches: 1593812
+
+stride benchmark: 1 aggression: 2
+0.717117
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 30318883
+Hit rate: 0.717117
+Prefetches: 4885363
+Successful prefetches: 1565750
+
+stride benchmark: 1 aggression: 3
+0.71724
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 30324076
+Hit rate: 0.71724
+Prefetches: 4881207
+Successful prefetches: 1589598
+
+stride benchmark: 1 aggression: 4
+0.714423
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 30204998
+Hit rate: 0.714423
+Prefetches: 5084903
+Successful prefetches: 1520659
+
+stride benchmark: 1 aggression: 5
+0.714397
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 30203888
+Hit rate: 0.714397
+Prefetches: 5080905
+Successful prefetches: 1546653
+
+stride benchmark: 1 aggression: 6
+0.719744
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 30429964
+Hit rate: 0.719744
+Prefetches: 4681222
+Successful prefetches: 1636589
+
+stride benchmark: 1 aggression: 7
+0.717369
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 30329554
+Hit rate: 0.717369
+Prefetches: 4885069
+Successful prefetches: 1593821
+
+stride benchmark: 1 aggression: 8
+0.714546
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 30210184
+Hit rate: 0.714546
+Prefetches: 5081040
+Successful prefetches: 1546614
+
+stride benchmark: 1 aggression: 9
+0.714698
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 30216613
+Hit rate: 0.714698
+Prefetches: 5076947
+Successful prefetches: 1548724
+
+stride benchmark: 1 aggression: 10
+0.711606
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 30085894
+Hit rate: 0.711606
+Prefetches: 5284818
+Successful prefetches: 1477682
+
+distance benchmark: 1 aggression: 1
+0.800237
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 33833122
+Hit rate: 0.800237
+Prefetches: 8254276
+Successful prefetches: 3126673
+
+distance benchmark: 1 aggression: 2
+0.80029
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 33835358
+Hit rate: 0.80029
+Prefetches: 8257514
+Successful prefetches: 3124705
+
+distance benchmark: 1 aggression: 3
+0.800335
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 33837248
+Hit rate: 0.800335
+Prefetches: 8249453
+Successful prefetches: 3121474
+
+distance benchmark: 1 aggression: 4
+0.800626
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 33849563
+Hit rate: 0.800626
+Prefetches: 8245761
+Successful prefetches: 3119900
+
+distance benchmark: 1 aggression: 5
+0.800239
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 33833203
+Hit rate: 0.800239
+Prefetches: 8251669
+Successful prefetches: 3126723
+
+distance benchmark: 1 aggression: 6
+0.80042
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 33840845
+Hit rate: 0.80042
+Prefetches: 8250865
+Successful prefetches: 3121419
+
+distance benchmark: 1 aggression: 7
+0.800627
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 33849614
+Hit rate: 0.800627
+Prefetches: 8245940
+Successful prefetches: 3119649
+
+distance benchmark: 1 aggression: 8
+0.800479
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 33843356
+Hit rate: 0.800479
+Prefetches: 8251325
+Successful prefetches: 3122611
+
+distance benchmark: 1 aggression: 9
+0.800644
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 33850333
+Hit rate: 0.800644
+Prefetches: 8246014
+Successful prefetches: 3121647
+
+distance benchmark: 1 aggression: 10
+0.800217
+The program has completed execution
+The checkpoint has been reached
+Accesses: 42278865 Loads: 38436538 Stores: 3842327
+Hits: 33832257
+Hit rate: 0.800217
+Prefetches: 8253377
+Successful prefetches: 3123243
+
+next_n_lines benchmark: 2 aggression: 1
+0.626003
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 38110596
+Hit rate: 0.626003
+Prefetches: 39635219
+Successful prefetches: 625997
+
+next_n_lines benchmark: 2 aggression: 2
+0.646455
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 39355670
+Hit rate: 0.646455
+Prefetches: 39147063
+Successful prefetches: 154896
+
+next_n_lines benchmark: 2 aggression: 3
+0.629001
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 38293055
+Hit rate: 0.629001
+Prefetches: 39115311
+Successful prefetches: 378475
+
+next_n_lines benchmark: 2 aggression: 4
+0.644131
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 39214183
+Hit rate: 0.644131
+Prefetches: 39519081
+Successful prefetches: 178265
+
+next_n_lines benchmark: 2 aggression: 5
+0.626003
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 38110596
+Hit rate: 0.626003
+Prefetches: 39635219
+Successful prefetches: 625997
+
+next_n_lines benchmark: 2 aggression: 6
+0.629001
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 38293055
+Hit rate: 0.629001
+Prefetches: 39115311
+Successful prefetches: 378475
+
+next_n_lines benchmark: 2 aggression: 7
+0.63018
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 38364862
+Hit rate: 0.63018
+Prefetches: 41328813
+Successful prefetches: 222494
+
+next_n_lines benchmark: 2 aggression: 8
+0.63018
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 38364862
+Hit rate: 0.63018
+Prefetches: 41328813
+Successful prefetches: 222494
+
+next_n_lines benchmark: 2 aggression: 9
+0.625533
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 38081950
+Hit rate: 0.625533
+Prefetches: 41549386
+Successful prefetches: 206055
+
+next_n_lines benchmark: 2 aggression: 10
+0.63018
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 38364862
+Hit rate: 0.63018
+Prefetches: 41328813
+Successful prefetches: 222494
+
+stride benchmark: 2 aggression: 1
+0.70714
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 43050136
+Hit rate: 0.70714
+Prefetches: 229499
+Successful prefetches: 114913
+
+stride benchmark: 2 aggression: 2
+0.725288
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 44154962
+Hit rate: 0.725288
+Prefetches: 227844
+Successful prefetches: 116515
+
+stride benchmark: 2 aggression: 3
+0.723552
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 44049262
+Hit rate: 0.723552
+Prefetches: 216122
+Successful prefetches: 121166
+
+stride benchmark: 2 aggression: 4
+0.670822
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 40839130
+Hit rate: 0.670822
+Prefetches: 230300
+Successful prefetches: 116671
+
+stride benchmark: 2 aggression: 5
+0.670822
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 40839132
+Hit rate: 0.670822
+Prefetches: 230300
+Successful prefetches: 116672
+
+stride benchmark: 2 aggression: 6
+0.670822
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 40839133
+Hit rate: 0.670822
+Prefetches: 230300
+Successful prefetches: 116674
+
+stride benchmark: 2 aggression: 7
+0.681622
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 41496592
+Hit rate: 0.681622
+Prefetches: 233004
+Successful prefetches: 118153
+
+stride benchmark: 2 aggression: 8
+0.707341
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 43062365
+Hit rate: 0.707341
+Prefetches: 216170
+Successful prefetches: 120703
+
+stride benchmark: 2 aggression: 9
+0.723552
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 44049264
+Hit rate: 0.723552
+Prefetches: 216118
+Successful prefetches: 121166
+
+stride benchmark: 2 aggression: 10
+0.725288
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 44154963
+Hit rate: 0.725288
+Prefetches: 227848
+Successful prefetches: 116515
+
+distance benchmark: 2 aggression: 1
+0.729356
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 44402610
+Hit rate: 0.729356
+Prefetches: 8467394
+Successful prefetches: 2937690
+
+distance benchmark: 2 aggression: 2
+0.715989
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 43588868
+Hit rate: 0.715989
+Prefetches: 8427192
+Successful prefetches: 3073707
+
+distance benchmark: 2 aggression: 3
+0.760201
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 46280448
+Hit rate: 0.760201
+Prefetches: 8527278
+Successful prefetches: 2923790
+
+distance benchmark: 2 aggression: 4
+0.739529
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 45021945
+Hit rate: 0.739529
+Prefetches: 8519855
+Successful prefetches: 3072614
+
+distance benchmark: 2 aggression: 5
+0.760441
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 46295059
+Hit rate: 0.760441
+Prefetches: 8645298
+Successful prefetches: 3093200
+
+distance benchmark: 2 aggression: 6
+0.75305
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 45845081
+Hit rate: 0.75305
+Prefetches: 8216624
+Successful prefetches: 2893545
+
+distance benchmark: 2 aggression: 7
+0.760485
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 46297714
+Hit rate: 0.760485
+Prefetches: 8037772
+Successful prefetches: 2886128
+
+distance benchmark: 2 aggression: 8
+0.778726
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 47408237
+Hit rate: 0.778726
+Prefetches: 8500422
+Successful prefetches: 3014999
+
+distance benchmark: 2 aggression: 9
+0.715944
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 43586101
+Hit rate: 0.715944
+Prefetches: 8425657
+Successful prefetches: 3072161
+
+distance benchmark: 2 aggression: 10
+0.777808
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879210 Loads: 50436777 Stores: 10442433
+Hits: 47352324
+Hit rate: 0.777808
+Prefetches: 8581178
+Successful prefetches: 3058844
+
+next_n_lines benchmark: 3 aggression: 1
+0.638975
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 27782558
+Hit rate: 0.638975
+Prefetches: 30493651
+Successful prefetches: 52998
+
+next_n_lines benchmark: 3 aggression: 2
+0.638952
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 27781545
+Hit rate: 0.638952
+Prefetches: 30505048
+Successful prefetches: 56442
+
+next_n_lines benchmark: 3 aggression: 3
+0.639321
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 27797574
+Hit rate: 0.639321
+Prefetches: 30471685
+Successful prefetches: 50801
+
+next_n_lines benchmark: 3 aggression: 4
+0.639121
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 27788882
+Hit rate: 0.639121
+Prefetches: 30490456
+Successful prefetches: 56294
+
+next_n_lines benchmark: 3 aggression: 5
+0.639238
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 27793976
+Hit rate: 0.639238
+Prefetches: 30478132
+Successful prefetches: 59735
+
+next_n_lines benchmark: 3 aggression: 6
+0.639278
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 27795708
+Hit rate: 0.639278
+Prefetches: 30488469
+Successful prefetches: 52957
+
+next_n_lines benchmark: 3 aggression: 7
+0.639039
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 27785346
+Hit rate: 0.639039
+Prefetches: 30494858
+Successful prefetches: 53192
+
+next_n_lines benchmark: 3 aggression: 8
+0.639205
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 27792570
+Hit rate: 0.639205
+Prefetches: 30488208
+Successful prefetches: 57493
+
+next_n_lines benchmark: 3 aggression: 9
+0.639205
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 27792570
+Hit rate: 0.639205
+Prefetches: 30488208
+Successful prefetches: 57493
+
+next_n_lines benchmark: 3 aggression: 10
+0.639465
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 27803866
+Hit rate: 0.639465
+Prefetches: 30476888
+Successful prefetches: 52290
+
+stride benchmark: 3 aggression: 1
+0.723083
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 31439553
+Hit rate: 0.723083
+Prefetches: 4912075
+Successful prefetches: 1350435
+
+stride benchmark: 3 aggression: 2
+0.723064
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 31438725
+Hit rate: 0.723064
+Prefetches: 4908504
+Successful prefetches: 1373470
+
+stride benchmark: 3 aggression: 3
+0.72296
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 31434197
+Hit rate: 0.72296
+Prefetches: 4912003
+Successful prefetches: 1315455
+
+stride benchmark: 3 aggression: 4
+0.725588
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 31548479
+Hit rate: 0.725588
+Prefetches: 4707623
+Successful prefetches: 1472865
+
+stride benchmark: 3 aggression: 5
+0.725416
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 31540996
+Hit rate: 0.725416
+Prefetches: 4711921
+Successful prefetches: 1479806
+
+stride benchmark: 3 aggression: 6
+0.722989
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 31435488
+Hit rate: 0.722989
+Prefetches: 4903623
+Successful prefetches: 1402653
+
+stride benchmark: 3 aggression: 7
+0.725794
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 31557439
+Hit rate: 0.725794
+Prefetches: 4712174
+Successful prefetches: 1449912
+
+stride benchmark: 3 aggression: 8
+0.72032
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 31319416
+Hit rate: 0.72032
+Prefetches: 5103656
+Successful prefetches: 1273611
+
+stride benchmark: 3 aggression: 9
+0.720171
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 31312930
+Hit rate: 0.720171
+Prefetches: 5107454
+Successful prefetches: 1303007
+
+stride benchmark: 3 aggression: 10
+0.720507
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 31327550
+Hit rate: 0.720507
+Prefetches: 5112075
+Successful prefetches: 1273335
+
+distance benchmark: 3 aggression: 1
+0.801824
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 34863213
+Hit rate: 0.801824
+Prefetches: 8166088
+Successful prefetches: 2959121
+
+distance benchmark: 3 aggression: 2
+0.801826
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 34863268
+Hit rate: 0.801826
+Prefetches: 8175714
+Successful prefetches: 2965027
+
+distance benchmark: 3 aggression: 3
+0.802091
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 34874802
+Hit rate: 0.802091
+Prefetches: 8166741
+Successful prefetches: 2962656
+
+distance benchmark: 3 aggression: 4
+0.802046
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 34872839
+Hit rate: 0.802046
+Prefetches: 8168371
+Successful prefetches: 2962396
+
+distance benchmark: 3 aggression: 5
+0.801988
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 34870350
+Hit rate: 0.801988
+Prefetches: 8171750
+Successful prefetches: 2960410
+
+distance benchmark: 3 aggression: 6
+0.802246
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 34881553
+Hit rate: 0.802246
+Prefetches: 8162716
+Successful prefetches: 2960769
+
+distance benchmark: 3 aggression: 7
+0.802018
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 34871619
+Hit rate: 0.802018
+Prefetches: 8170312
+Successful prefetches: 2959330
+
+distance benchmark: 3 aggression: 8
+0.802007
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 34871154
+Hit rate: 0.802007
+Prefetches: 8167498
+Successful prefetches: 2961211
+
+distance benchmark: 3 aggression: 9
+0.80194
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 34868262
+Hit rate: 0.80194
+Prefetches: 8168705
+Successful prefetches: 2964213
+
+distance benchmark: 3 aggression: 10
+0.802283
+The program has completed execution
+The checkpoint has been reached
+Accesses: 43479868 Loads: 39036539 Stores: 4443329
+Hits: 34883157
+Hit rate: 0.802283
+Prefetches: 8161897
+Successful prefetches: 2956869
+

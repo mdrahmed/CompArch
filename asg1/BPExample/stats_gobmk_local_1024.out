@@ -1,0 +1,5 @@
+Prediction accuracy:	0.853961
+Number of conditional branches:	159910839
+Number of correct predictions:	136557583
+Number of taken branches:	75770627
+Number of non-taken branches:	84140212

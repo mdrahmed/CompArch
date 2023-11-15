@@ -1,0 +1,24 @@
+
+Quiz 1:
+1. Can a 1-bit dynamic branch predictor ever perform better than a 2-bit dynamic branch predictor? Justify your answer.
+- 2013 questions
+
+2. Not an advantage of isa?
+- 2017 3.i
+- 2016 1.i 
+Same question
+
+3. Improve ISA
+
+4. State if war and war hazards are possible 
+ - 2015 2 - same question but in a different way
+ - 2017 1e - only 5stage
+ - 2018 2d - similar but tricky
+
+5. Branch target buffer
+ - 2015 1.c
+ - 2013 3.g.
+
+6. 
+
+7. Develop microarchitectural technique

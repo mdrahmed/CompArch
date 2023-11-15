@@ -1,0 +1,94 @@
+
+make obj-intel64/branch_predictor_example.so TARGET=intel64
+
+//ALWAYS TAKEN
+[u1374605@lab1-19 BPExample]$ $PIN -t $BP_Example/obj-intel64/branch_predictor_example.so -BP_type always_taken -o stats_always_taken.out \
+? -- $SJENG_PATH/sjeng_base.amd64-m64-gcc41-nn $SJENG_PATH/ref.txt > sjeng.out
+Using always taken BP
+The simulation will run 1000000000 instructions.
+Executed 100000000 instructions.
+Executed 200000000 instructions.
+Executed 300000000 instructions.
+Executed 400000000 instructions.
+Executed 500000000 instructions.
+Executed 600000000 instructions.
+Executed 700000000 instructions.
+Executed 800000000 instructions.
+Executed 900000000 instructions.
+Executed 1000000000 instructions.
+
+PIN has been detached at iCount = 1000000000
+
+Simulation has reached its target point. Terminate simulation.
+Prediction accuracy:	0.456935
+
+
+//LOCAL
+[u1374605@lab1-19 BPExample]$ $PIN -t $BP_Example/obj-intel64/branch_predictor_example.so -BP_type local -num_BP_entries 128 -o stats_sjeng_local.out -- $SJENG_PATH/sjeng_base.amd64-m64-gcc41-nn $SJENG_PATH/ref.txt > sjeng.out
+Using Local BP.
+KnobNumberOfEntriesInBranchPredictor.Value():128
+numEntries: 128
+The simulation will run 1000000000 instructions.
+Executed 100000000 instructions.
+Executed 200000000 instructions.
+Executed 300000000 instructions.
+Executed 400000000 instructions.
+Executed 500000000 instructions.
+Executed 600000000 instructions.
+Executed 700000000 instructions.
+Executed 800000000 instructions.
+Executed 900000000 instructions.
+Executed 1000000000 instructions.
+
+PIN has been detached at iCount = 1000000000
+
+Simulation has reached its target point. Terminate simulation.
+Prediction accuracy:	0.829907
+
+
+
+// GSHARE
+[u1374605@lab1-19 BPExample]$ $PIN -t $BP_Example/obj-intel64/branch_predictor_example.so -BP_type gshare -num_BP_entries 4096 -o stats_matrix_mul_gshare.out \
+? -- $MATRIX_MUL_PATH/matrix_multiplication.exe > matrix_mul.out
+Using Gshare BP.
+The simulation will run 1000000000 instructions.
+Executed 100000000 instructions.
+Executed 200000000 instructions.
+Executed 300000000 instructions.
+Executed 400000000 instructions.
+Executed 500000000 instructions.
+Executed 600000000 instructions.
+Executed 700000000 instructions.
+Executed 800000000 instructions.
+Executed 900000000 instructions.
+Executed 1000000000 instructions.
+
+PIN has been detached at iCount = 1000000000
+
+Simulation has reached its target point. Terminate simulation.
+Prediction accuracy:	0.996085
+[u1374605@lab1-19 BPExample]$ 
+
+
+//TOURNAMENT
+[u1374605@lab1-19 BPExample]$ $PIN -t $BP_Example/obj-intel64/branch_predictor_example.so -BP_type tournament -num_BP_entries 1024 -o stats_matrix_mul_gshare.out -- $MATRIX_MUL_PATH/matrix_multiplication.exe > matrix_mul.out
+Using Tournament BP.
+The simulation will run 1000000000 instructions.
+Executed 100000000 instructions.
+Executed 200000000 instructions.
+Executed 300000000 instructions.
+Executed 400000000 instructions.
+Executed 500000000 instructions.
+Executed 600000000 instructions.
+Executed 700000000 instructions.
+Executed 800000000 instructions.
+Executed 900000000 instructions.
+Executed 1000000000 instructions.
+
+PIN has been detached at iCount = 1000000000
+
+Simulation has reached its target point. Terminate simulation.
+Prediction accuracy:	0.996757
+[u1374605@lab1-19 BPExample]$ 
+
+

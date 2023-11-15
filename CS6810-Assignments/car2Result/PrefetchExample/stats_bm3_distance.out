@@ -1,0 +1,7 @@
+The program has completed execution
+The checkpoint has been reached
+Accesses: 60879220 Loads: 50436787 Stores: 10442433
+Hits: 47552440
+Hit rate: 0.781095
+Prefetches: 9579831
+Successful prefetches: 3087733
